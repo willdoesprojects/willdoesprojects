@@ -1,4 +1,6 @@
-### <div>Hello</div>
+### Hello World, I'm William Nguyen!
+## 💬| About Me
+As of right now, I am a senior computer science student. All of these projects that I have developed comes from applying the knowledge that I have learned from the courses I've taken over time and all of topics I am interested in, culvated together. I am currently looking for any job prospect that deals with any form of software enginnering. I am eager to apply my foundation of skills and knowledge to real world applications! If you have any business prospects, general questions, want to say hi, just contact me through email or socials!
 
 <!--
 **willdoesprojects/willdoesprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
