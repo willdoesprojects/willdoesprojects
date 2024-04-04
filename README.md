@@ -1,8 +1,8 @@
 ### Hello World, I'm William Nguyen!
-## 💬| About Me
+## 💬 | About Me
 As of right now, I am a senior computer science student. All of these projects that I have developed comes from applying the knowledge that I have learned from the courses I've taken over time and all of topics I am interested in, culvated together. I am currently looking for any job prospect that deals with any form of software enginnering. I am eager to apply my foundation of skills and knowledge to real world applications! If you have any business prospects, general questions, want to say hi, just contact me through email or socials!
 
-## 🤝| Interests
+## 🤝 | Interests
 - 🕹️ Distributed Systems
 - 🖥️ Web Applications (Primarily Backend)
 - 🧿 Computer Vision
@@ -11,7 +11,7 @@ As of right now, I am a senior computer science student. All of these projects t
 - 🥊 Boxing
 - 🚞 Roadtripping
 
-## 🙋‍♂️| What is William Doing Right Now?
+## 🙋‍♂️ | What is William Doing Right Now?
 - 🔨 Currently...
 ```yaml
   - Passing my classes :/
@@ -43,7 +43,6 @@ As of right now, I am a senior computer science student. All of these projects t
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
 
 
