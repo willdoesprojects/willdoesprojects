@@ -15,8 +15,8 @@ As of right now, I am a senior computer science student. All of these projects t
 - 🔨 Currently...
 ```yaml
   - Passing my classes :/
+  - Developing image classfication project using Bag of Words method, w/o and w/ neural network and deep learning
   - Developing a simulation of distributed nodes that work in parallel in computing image classfication
-  - Developing image classfication project using Bag of Words method, w/o and w/ neural network and machine learning
   - Developing full stack application that designates free campsites across the US, users can pin campsites too
   - Procrasnating
   ```
