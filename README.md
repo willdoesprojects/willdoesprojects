@@ -17,7 +17,7 @@ As of right now, I am a senior computer science student. All of these projects t
   - Passing my classes :/
   - Developing image classfication project using Bag of Words method, w/o and w/ neural network and deep learning
   - Developing a simulation of distributed nodes that work in parallel in computing image classfication
-  - Developing full stack application that designates free campsites across the US, users can pin campsites too
+  - Developing my portfolio website 
   - Procrasnating
   ```
 -🏅Goals
@@ -49,17 +49,4 @@ As of right now, I am a senior computer science student. All of these projects t
 <br />
 
 #
-<!--
-**willdoesprojects/willdoesprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
