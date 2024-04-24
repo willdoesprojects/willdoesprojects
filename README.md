@@ -21,7 +21,7 @@ As of right now, I am a senior computer science student. All of these projects t
   - Procrasnating
   ```
 -🏅Goals
-  - Make it into FAANG (If you can hook me up please let me know 🙏)
+  - Getting a job in industry (If you can hook me up please let me know 🙏)
   - Get better at linear algebra
   - Finish projects
   - Compete in first fight
