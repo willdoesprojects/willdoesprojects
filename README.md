@@ -4,10 +4,9 @@ As of right now, I am a senior computer science student. All of these projects t
 
 ## 🤝 | Interests
 - 🕹️ Distributed Systems
-- 🖥️ Web Applications (Primarily Backend)
+- 🖥️ Neural Networks
 - 🧿 Computer Vision
 - 🏎️ Autonomous Robotics Path Finding
-- 💡 Digital Electronics
 - 🥊 Boxing
 - 🚞 Roadtripping
 
@@ -16,8 +15,7 @@ As of right now, I am a senior computer science student. All of these projects t
 ```yaml
   - Passing my classes :/
   - Developing image classfication project using Bag of Words method, w/o and w/ neural network and deep learning
-  - Developing a simulation of distributed nodes that work in parallel in computing image classfication
-  - Developing my portfolio website 
+  - Developing a barebones neural network framework
   - Procrasnating
   ```
 -🏅Goals
