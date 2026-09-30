@@ -1,6 +1,6 @@
 ### wassup, the name is will
 
-<h3> code at day, party at night. </h3>
+<h3> code all day, everyday. </h3>
 
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
